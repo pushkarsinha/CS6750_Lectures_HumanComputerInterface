@@ -1,0 +1,112 @@
+1
+00:00:00,210 --> 00:00:03,060
+ In 2006, Stephanie Chamberlain, Helen Sharp, and
+
+2
+00:00:03,060 --> 00:00:05,310
+ Neil Maiden investigated the conflicts and
+
+3
+00:00:05,310 --> 00:00:09,260
+ opportunities of applying agile development to user-centered design.
+
+4
+00:00:09,260 --> 00:00:12,830
+ They found interestingly that the two actually had a signficant overlap.
+
+5
+00:00:12,830 --> 00:00:16,030
+ Both agile development and user-centered design emphasized
+
+6
+00:00:16,030 --> 00:00:20,140
+ iterative development processes building on feedback from previous rounds.
+
+7
+00:00:20,140 --> 00:00:22,490
+ That's the entire design life cycle that we've talked about.
+
+8
+00:00:22,490 --> 00:00:26,410
+ That's at the core of both agile development and user-centered design.
+
+9
+00:00:26,410 --> 00:00:28,990
+ Both methodologies also place a heavy emphasis on
+
+10
+00:00:28,990 --> 00:00:31,440
+ the user's role in the development process.
+
+11
+00:00:31,440 --> 00:00:35,360
+ And both also emphasize the importance of team coherence.
+
+12
+00:00:35,360 --> 00:00:38,100
+ So it seems that agile methods and user-centered design
+
+13
+00:00:38,100 --> 00:00:42,090
+ agree on the most fundamental element, the importance of the user.
+
+14
+00:00:42,090 --> 00:00:44,820
+ By comparison, the conflicts are actually relatively light,
+
+15
+00:00:44,820 --> 00:00:45,810
+ at least in my opinion.
+
+16
+00:00:45,810 --> 00:00:49,340
+ User-centered design disagrees with agile development on the importance of
+
+17
+00:00:49,340 --> 00:00:50,190
+ documentation and
+
+18
+00:00:50,190 --> 00:00:53,810
+ the importance of doing research prior to the design work actually beginning.
+
+19
+00:00:53,810 --> 00:00:56,390
+ But, clearly, the methodologies have the same objectives.
+
+20
+00:00:56,390 --> 00:00:58,710
+ They just disagree on how to best achieve them.
+
+21
+00:00:58,710 --> 00:01:01,910
+ As a result, the authors advocate five principles for
+
+22
+00:01:01,910 --> 00:01:05,250
+ integrating user-centered design and agile development.
+
+23
+00:01:05,250 --> 00:01:07,805
+ Two of these were shared between the methodologies in the first place,
+
+24
+00:01:07,805 --> 00:01:11,630
+ high user involvement and close team collaboration.
+
+25
+00:01:11,630 --> 00:01:15,177
+ User-centered designs' emphasis on prototyping and the design life cycle
+
+26
+00:01:15,177 --> 00:01:18,503
+ shows that by proposing that design is run a sprint ahead of developers to
+
+27
+00:01:18,503 --> 00:01:21,940
+ perform the research necessary for user-centered design.
+
+28
+00:01:21,940 --> 00:01:21,940
+ To facilitate this, strong project management is necessary.
+
