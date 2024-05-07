@@ -1,0 +1,112 @@
+1
+00:00:03,020 --> 00:00:06,180
+ Batya Friedman is one of the co-directors of
+
+2
+00:00:06,180 --> 00:00:09,405
+ the Value Sensitive Design Research Lab at the University of Washington,
+
+3
+00:00:09,405 --> 00:00:12,480
+ and she co-authored one of the seminal papers on the topic,
+
+4
+00:00:12,480 --> 00:00:15,450
+ Value Sensitive Design and Information Systems.
+
+5
+00:00:15,450 --> 00:00:19,835
+ Friedman, Khan and Borning together provide this excellent paper on the philosophy.
+
+6
+00:00:19,835 --> 00:00:24,010
+ In it, they cover three investigations for approaching value sensitive design.
+
+7
+00:00:24,010 --> 00:00:26,640
+ First, the cover conceptual investigations.
+
+8
+00:00:26,640 --> 00:00:30,260
+ Conceptual investigations are like thought experiments where we explore
+
+9
+00:00:30,260 --> 00:00:34,310
+ the role values play in questions like who are the direct and indirect stakeholders,
+
+10
+00:00:34,310 --> 00:00:37,225
+ and how are both classes of stakeholders affected?
+
+11
+00:00:37,225 --> 00:00:39,990
+ Second, they cover empirical investigations.
+
+12
+00:00:39,990 --> 00:00:43,070
+ Empirical investigations go out and use real users,
+
+13
+00:00:43,070 --> 00:00:46,700
+ exploring how they make sense of interfaces and answering questions like
+
+14
+00:00:46,700 --> 00:00:50,870
+ how do stakeholders apprehend individual values in the interactive context?
+
+15
+00:00:50,870 --> 00:00:54,925
+ How do they prioritize individual values and usability considerations?
+
+16
+00:00:54,925 --> 00:00:57,810
+ Third, they cover technical investigations.
+
+17
+00:00:57,810 --> 00:01:01,940
+ Technical investigations are like empirical investigations that target the systems,
+
+18
+00:01:01,940 --> 00:01:03,460
+ instead of the users.
+
+19
+00:01:03,460 --> 00:01:06,620
+ They ask the same kind of questions but they're especially targeting whether or
+
+20
+00:01:06,620 --> 00:01:10,100
+ not the systems are compatible with the values of the users.
+
+21
+00:01:10,100 --> 00:01:14,570
+ The paper also proposes some of the fundamental features of value sensitive design.
+
+22
+00:01:14,570 --> 00:01:18,395
+ For example, value sensitive design should be proactive
+
+23
+00:01:18,395 --> 00:01:23,585
+ and values sensitive design distinguishes between usability and human values.
+
+24
+00:01:23,585 --> 00:01:27,535
+ If you're playing to work in an area where human values play a significant role,
+
+25
+00:01:27,535 --> 00:01:30,740
+ and I would argue that, that's probably most areas of HCI,
+
+26
+00:01:30,740 --> 00:01:32,690
+ I highly recommend reading through this paper.
+
+27
+00:01:32,690 --> 00:01:35,840
+ It can have a profound impact not only on the way you design
+
+28
+00:01:35,840 --> 00:01:35,840
+ interfaces but on the way you approach user research.
+

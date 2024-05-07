@@ -1,0 +1,136 @@
+1
+00:00:02,900 --> 00:00:06,420
+ In this lesson, we've covered three theories on studying
+
+2
+00:00:06,420 --> 00:00:09,825
+ contexts in human-computer interaction: distributed cognition,
+
+3
+00:00:09,825 --> 00:00:12,600
+ situated action, and activity theory.
+
+4
+00:00:12,600 --> 00:00:15,105
+ If you're having trouble keeping the three straight though,
+
+5
+00:00:15,105 --> 00:00:16,845
+ Nardi has a great paper for you.
+
+6
+00:00:16,845 --> 00:00:19,290
+ From her volume context and consciousness,
+
+7
+00:00:19,290 --> 00:00:22,230
+ Nardi wrote a comparison between the three philosophies she titled
+
+8
+00:00:22,230 --> 00:00:25,320
+ "Studying Context: A Comparison of Activity Theory,
+
+9
+00:00:25,320 --> 00:00:28,515
+ Situated Action Models, and Distributed Cognition."
+
+10
+00:00:28,515 --> 00:00:32,370
+ She starts by giving a great one-page summary of each of these three views,
+
+11
+00:00:32,370 --> 00:00:34,080
+ which would be really good if you're having trouble
+
+12
+00:00:34,080 --> 00:00:36,615
+ understanding the finer points of these theories.
+
+13
+00:00:36,615 --> 00:00:38,880
+ Even more usefully, she goes on to give
+
+14
+00:00:38,880 --> 00:00:42,315
+ commentary on the difference between these three big theories.
+
+15
+00:00:42,315 --> 00:00:47,225
+ First, she notes that activity theory and distributed cognition are driven by goals,
+
+16
+00:00:47,225 --> 00:00:51,470
+ whereas situated action de-emphasizes goals for a focus on improvisation.
+
+17
+00:00:51,470 --> 00:00:54,620
+ She goes on to summarize the situated actions as goals are
+
+18
+00:00:54,620 --> 00:00:58,570
+ constructed retroactively to interpret our past actions.
+
+19
+00:00:58,570 --> 00:01:02,510
+ Nardi also evaluates the role of permanent persistent structures,
+
+20
+00:01:02,510 --> 00:01:05,615
+ noting they're important for activity theory and distributed cognition,
+
+21
+00:01:05,615 --> 00:01:08,120
+ but present a tension for situated action.
+
+22
+00:01:08,120 --> 00:01:13,315
+ So, here, we again see a similarity between activity theory and distributed cognition.
+
+23
+00:01:13,315 --> 00:01:14,925
+ So, what makes them different?
+
+24
+00:01:14,925 --> 00:01:17,660
+ Well, Nardi writes that the main difference between activity theory and
+
+25
+00:01:17,660 --> 00:01:22,715
+ distributed cognition is their evaluation of the symmetry between people and artifacts.
+
+26
+00:01:22,715 --> 00:01:25,715
+ Activity theory regards them as fundamentally different,
+
+27
+00:01:25,715 --> 00:01:27,970
+ given that humans have consciousness.
+
+28
+00:01:27,970 --> 00:01:33,350
+ Distributed cognition by contrast believes that artifacts can serve cognitive roles,
+
+29
+00:01:33,350 --> 00:01:37,090
+ and so those should be considered conceptually equivalent to humans.
+
+30
+00:01:37,090 --> 00:01:41,630
+ So, that gives a high-level overview of the difference between these three theories.
+
+31
+00:01:41,630 --> 00:01:43,700
+ These theories are big and complex, of course,
+
+32
+00:01:43,700 --> 00:01:45,965
+ and the complete paper goes into much more detail.
+
+33
+00:01:45,965 --> 00:01:47,780
+ But this should provide a decent glimpse at
+
+34
+00:01:47,780 --> 00:01:47,780
+ the distinctions at least enough to get you started reading the paper for yourself.
+

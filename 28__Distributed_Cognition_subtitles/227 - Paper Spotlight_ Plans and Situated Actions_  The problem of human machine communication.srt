@@ -1,0 +1,100 @@
+1
+00:00:02,930 --> 00:00:07,050
+ Lucy Suchman's 1985 book "Plans and Situated
+
+2
+00:00:07,050 --> 00:00:10,920
+ Actions," is the seminal book on the philosophy of situated action.
+
+3
+00:00:10,920 --> 00:00:15,070
+ The book is a detailed comparison between two views of human action.
+
+4
+00:00:15,070 --> 00:00:17,460
+ The first view she writes views
+
+5
+00:00:17,460 --> 00:00:22,245
+ the organization insignificance of action as derived from plans.
+
+6
+00:00:22,245 --> 00:00:25,470
+ This is the model we very often adopt when developing interfaces.
+
+7
+00:00:25,470 --> 00:00:28,425
+ Users make plans and users carry out those plans.
+
+8
+00:00:28,425 --> 00:00:31,380
+ But such then introduces a second view as well.
+
+9
+00:00:31,380 --> 00:00:34,620
+ In this view, people simply act in the world,
+
+10
+00:00:34,620 --> 00:00:37,860
+ and plans are what we derive from those actions.
+
+11
+00:00:37,860 --> 00:00:40,375
+ Instead of plans dictating actions,
+
+12
+00:00:40,375 --> 00:00:43,480
+ plans are interpretations of actions.
+
+13
+00:00:43,480 --> 00:00:46,970
+ What this means for us as interface designers is that rather than
+
+14
+00:00:46,970 --> 00:00:50,180
+ assuming the user has a plan in mind that they're actively carrying out,
+
+15
+00:00:50,180 --> 00:00:51,470
+ we might consider viewing
+
+16
+00:00:51,470 --> 00:00:54,805
+ only their immediate interaction with the current screen instead.
+
+17
+00:00:54,805 --> 00:00:57,150
+ In other words, forget the history of actions that
+
+18
+00:00:57,150 --> 00:00:59,780
+ led the user to a certain screen and ask just,
+
+19
+00:00:59,780 --> 00:01:02,870
+ "Once they're here, how do they know what to do next?
+
+20
+00:01:02,870 --> 00:01:05,690
+ Later in the book, Lucy Suchman specifically touches
+
+21
+00:01:05,690 --> 00:01:08,780
+ on communication between humans and machines.
+
+22
+00:01:08,780 --> 00:01:10,730
+ There's a lot more depth here as well.
+
+23
+00:01:10,730 --> 00:01:12,980
+ The key takeaway for us is to focus on
+
+24
+00:01:12,980 --> 00:01:15,695
+ the resources available to the user at any given time,
+
+25
+00:01:15,695 --> 00:01:15,695
+ but I do recommend reading the book and this chapter for more insights.
+
