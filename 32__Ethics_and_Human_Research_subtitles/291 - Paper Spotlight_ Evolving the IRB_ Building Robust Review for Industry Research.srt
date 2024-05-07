@@ -1,0 +1,108 @@
+1
+00:00:02,960 --> 00:00:06,735
+ In a recent paper, in The Washington and Lee Law Review,
+
+2
+00:00:06,735 --> 00:00:08,430
+ Molly Jackman and Lauri Kanerva,
+
+3
+00:00:08,430 --> 00:00:11,580
+ two Facebook employees explored exactly this issue.
+
+4
+00:00:11,580 --> 00:00:14,250
+ Jackman and Kanerva specifically note that
+
+5
+00:00:14,250 --> 00:00:17,609
+ the ethical guidelines developed in the context of academia,
+
+6
+00:00:17,609 --> 00:00:20,925
+ do not always address some of the considerations of industry.
+
+7
+00:00:20,925 --> 00:00:24,225
+ In response, the authors directly advocate for setting up
+
+8
+00:00:24,225 --> 00:00:27,840
+ a set of principles and practices for industry environments.
+
+9
+00:00:27,840 --> 00:00:32,100
+ In other words, rather than just ignoring the parts that aren't relevant for industry,
+
+10
+00:00:32,100 --> 00:00:36,345
+ the authors advise creating a new set of standards specifically for industry.
+
+11
+00:00:36,345 --> 00:00:40,470
+ To do so, Facebook designed its own internal review process.
+
+12
+00:00:40,470 --> 00:00:43,550
+ In this case, Facebook's process is heavily
+
+13
+00:00:43,550 --> 00:00:47,090
+ reliant on deferring to a research area expert.
+
+14
+00:00:47,090 --> 00:00:49,250
+ I don't say defer in a bad way.
+
+15
+00:00:49,250 --> 00:00:52,010
+ A key part of IRB is that experiments are reviewed by
+
+16
+00:00:52,010 --> 00:00:55,175
+ people with no incentive to permit the study if it isn't ethical.
+
+17
+00:00:55,175 --> 00:00:57,890
+ Facebook tries to replicate this by referring studies to
+
+18
+00:00:57,890 --> 00:01:02,405
+ an external reviewer who in turn decides whether or not an additional review,
+
+19
+00:01:02,405 --> 00:01:05,659
+ and even external IRB is necessary.
+
+20
+00:01:05,659 --> 00:01:07,970
+ The other thing that's important to note though,
+
+21
+00:01:07,970 --> 00:01:11,645
+ is that Facebook isn't under any strong obligation to do this.
+
+22
+00:01:11,645 --> 00:01:15,980
+ Universities that receive federal funding are governed by the Belmont Report,
+
+23
+00:01:15,980 --> 00:01:19,390
+ but companies are not yet governed by any similar law.
+
+24
+00:01:19,390 --> 00:01:22,515
+ So we rely on companies to govern themselves.
+
+25
+00:01:22,515 --> 00:01:25,880
+ In Facebook's case, it seems to be going pretty well,
+
+26
+00:01:25,880 --> 00:01:28,280
+ but you might find yourself at a company that doesn't have
+
+27
+00:01:28,280 --> 00:01:28,280
+ such a program and you'll have to apply these standards yourself.
+
